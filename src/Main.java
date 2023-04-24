@@ -5,7 +5,7 @@ public class Main {
         int Ticket_price;  int Onemily; int Mily;
 
              Onemily = 20;                   // количество рублей для одной бонусной мили
-             Ticket_price = 2000;            // цена билета
+             Ticket_price = 13676;            // цена билета
 
              Mily = Ticket_price/Onemily;    // количество бонусных миль
 
